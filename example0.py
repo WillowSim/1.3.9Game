@@ -3,7 +3,7 @@
 #     team_name: a string
 #     strategy_name: a string
 #     strategy_description: a string
-#     move: A function that returns 'd' or 'b'
+#     move: A function that returns 'd' or 'z'
 ####
 
 team_name = 'CSP_team.A'
