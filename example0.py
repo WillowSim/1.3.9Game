@@ -18,7 +18,7 @@ def move(my_history, their_history, my_score, their_score):
     The first round between these two players is my_history[0] and their_history[0]
     The most recent round is my_history[-1] and their_history[-1]
     
-    Returns 'z' or 'b' for collude or betray.
+    Returns 'z' or 'c' for collude or betray.
     '''
     
     # This player always colludes.
