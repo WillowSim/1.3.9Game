@@ -5,7 +5,7 @@
 #     strategy_description: a string
 #     move: A function that returns 'd' or 'z'
 ####
-
+hi
 team_name = 'CSP_team.A'
 strategy_name = 'Collude'
 strategy_description = 'Always collude.'
