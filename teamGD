@@ -29,5 +29,5 @@ def test_move(my_history, their_history, my_score, their_score, result):
             their_history=' ',
             my_score=0,
             their_score=0,
-            result='b'):
+            result='c'):
         print 'Test passed'
